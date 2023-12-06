@@ -8,7 +8,7 @@ export const Intro = ()=>{
     <>
     <div class="md:flex md:flex-row justify-normal">
     <div class="md:w-[655px] p-1">
-    <img src={firstImg} class="w-fit md:w-[650px] md:h-[440px]"/>
+    <img src={firstImg} class="w-fit md:w-[700px] md:h-[440px]"/>
     <div class="p-1.5 md:flex md:flex-row md:justify-between">
     <div class="text-5xl  font-extrabold pt-1 pb-1 md:w-[400px]">The Bright Future of Web 3.0?</div>
     <div class="w-4/5">
