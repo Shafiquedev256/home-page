@@ -13,7 +13,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://home-page-green-pi.vercel.app/)
+- Live Site URL: [live site](https://home-page-green-pi.vercel.app/)
 
 ## My process
 
